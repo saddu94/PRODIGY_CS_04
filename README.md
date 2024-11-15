@@ -1,1 +1,1 @@
-# PRODIGY_CS_04
+As part of my internship at Prodigy InfoTech, I independently completed a cybersecurity project, utilizing various references and extensive self-study. The project involved developing a keylogger, a tool that records every keystroke made on a system from the moment the code begins running, and stores this data in a text file. This project allowed me to apply theoretical knowledge in a practical setting and further develop my skills in cybersecurity.
